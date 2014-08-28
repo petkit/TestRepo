@@ -8,5 +8,6 @@ namespace TestProject
 {
 	public class TestClass2
 	{
+		public int FixedByOtherUser { set; get; }
 	}
 }
