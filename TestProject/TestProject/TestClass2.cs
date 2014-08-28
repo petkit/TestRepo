@@ -9,5 +9,6 @@ namespace TestProject
 	public class TestClass2
 	{
 		public int FixedByOtherUser { set; get; }
+		public int FixedByOtherUser2 { set; get; }
 	}
 }
