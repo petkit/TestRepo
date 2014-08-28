@@ -8,5 +8,6 @@ namespace TestProject
 {
 	public class TestFeature2Class
 	{
+		public string TestProperty { set; get; }
 	}
 }
