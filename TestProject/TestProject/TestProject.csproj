@@ -47,6 +47,7 @@
     <Compile Include="TestClass1.cs" />
     <Compile Include="TestClass2.cs" />
     <Compile Include="TestFeature2Class.cs" />
+    <Compile Include="TestFeature1Class.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
