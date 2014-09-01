@@ -9,6 +9,7 @@ namespace TestWeb.Controllers
 {
     public class TestController : Controller
     {
+		TestModel _model = new TestModel();
         // GET: Test
         public ActionResult Index()
         {			

@@ -170,6 +170,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\TestItem.cs" />
     <Compile Include="Models\TestModel.cs" />
+    <Compile Include="Models\TestSubItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
